@@ -1,0 +1,7 @@
+.appdeploy
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Local notes, not part of the site
+GITHUB_PROFILE_README.md
